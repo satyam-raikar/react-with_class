@@ -8,6 +8,12 @@ render(){
     <div>
       <h1>Hello StackBlitz!</h1>
       <p>Start editing to see some magic happen :)</p>
+      <input 
+          type = "checkbox"
+          
+          onClick = {console.log("Clicked")}
+           />
+      
     </div>
   )
 
