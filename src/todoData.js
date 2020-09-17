@@ -26,4 +26,4 @@ const todoData = [
     }
 ]
 
-export default todosData
+export default todoData
